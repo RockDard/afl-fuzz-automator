@@ -43,7 +43,7 @@ run_afl.sh is an interactive Bash script that streamlines running **AFL++**, aut
 
 1. **Download** / **Скачать**:
    ```bash
-   wget https://example.com/run_afl.sh -O run_afl.sh
+   git clone https://github.com/RockDard/afl-fuzz-automator.git
    chmod +x run_afl.sh
    ```
 2. **Ensure permissions** / **Права**:
